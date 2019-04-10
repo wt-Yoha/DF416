@@ -1,18 +1,16 @@
 # 日常操作 #
 
-### 1.fork ###
+### 1.fork
 
-例如：在我们的工作组***dl416***，对***DF416***，点击右上角的**Fork**将组中**dl416**复制到自己的**github**中，接下来回到自己的github账号下，就能找到同名的***DF416***
-
+例如：在我们的工作组 ***dl416*** ，仓库为 ***DF416*** ，点击右上角的 **Fork** 将组中 **dl416** 复制到自己的 **github** 中
 ![dl416](./images/1-1.png)
 
-
-
+接下来回到自己的 github 账号下，就能找到同名的仓库 ***DF416***
 ![DL416](./images/1-2.png)
 
-### 2.本地（clone） ###
+### 2.本地（clone）
 
-接下来就是把githubDF416放到本地的仓库，也就是放到自己的电脑上
+接下来就是把 github DF416 放到本地的仓库，也就是放到自己的电脑上
 
 * git clone [DF416所在的地址]
 
@@ -24,7 +22,7 @@
 
 * git commit[提交文件到仓库]
 
-* git pull  --rebase[获取远程github]
+* git pull  --rebase[获取远程 github ]
 
 * git push +连接名 +分支名
 
@@ -32,12 +30,14 @@
 
 * git remote -v[查看当前连接]
 
+
   ![本地](./images/3-1.png)
 
 * git log[日志查看]
 
+
 ### 3.pull request
 
-通过本地push到自己的github下的DL416后，组内的DL416未能同步，通过pull request请求，等其他人review后进行Merge进行组内更新
+通过本地 push 到自己的 github 下的 DL416 后，组内的 DL416 未能同步，通过 pull request 请求，等其他人 review 后进行 Merge 进行组内更新
 
 ![DL416](./images/2-2.png)
