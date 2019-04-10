@@ -1,6 +1,6 @@
 # 日常操作 #
 
-### 1.fork###
+### 1.fork ###
 
 例如：在我们的工作组***dl416***，对***DF416***，点击右上角的**Fork**将组中**dl416**复制到自己的**github**中，接下来回到自己的github账号下，就能找到同名的***DF416***
 
@@ -36,7 +36,7 @@
 
 * git log[日志查看]
 
-###3.pull request
+### 3.pull request
 
 通过本地push到自己的github下的DL416后，组内的DL416未能同步，通过pull request请求，等其他人review后进行Merge进行组内更新
 
