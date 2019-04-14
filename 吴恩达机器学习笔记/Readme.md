@@ -19,6 +19,7 @@
 + 大规模机器学习
 + 应用举例：照片ocr
 
-部分内容将来自其课件讲义，也会给出其课后编程练习的答案供参考。（注意编程环境为 matlab 或 octave）
+部分内容将来自其课件讲义，也会给出其课后编程练习的答案供参考。（注意编程环境为 matlab 或 octave）部分笔记中由于包含了公式推导建议使用 Typora 或 可以查看Latex公式的编辑器阅读。
 
 原视频以及课件地址：https://study.163.com/course/courseMain.htm?courseId=1004570029&_trace_c_p_k2_=074e447a4561414eb83e379b24e680be
+
